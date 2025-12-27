@@ -1,7 +1,7 @@
-import React from 'react';
-import Button from '../../ui/Button';
-import './styles/HeroSection.css';
-import profileImage from '../../../assets/elvispassport.jpg';
+import React from "react";
+import Button from "../../ui/Button";
+import "./styles/HeroSection.css";
+import profileImage from "../../../assets/portfolio_1.jpeg";
 
 const HeroSection = () => {
   return (
@@ -11,22 +11,37 @@ const HeroSection = () => {
           <h1 className="hero-title">
             Hi, I'm <span className="highlight">Elvis Marube</span>
           </h1>
-          <h2 className="hero-subtitle">Frontend Developer and a Mobile App Developer</h2>
+          <h2 className="hero-subtitle">
+            FullStack Developer and a CyberSecurity Enthusiast
+          </h2>
           <p className="hero-description">
-            I build modern, responsive web applications with a focus on clean code and great user experiences.
+            I build modern, responsive web applications with a focus on clean
+            code and great user experiences.
           </p>
           <div className="hero-buttons">
-            <Button variant="primary" size="large" onClick={() => window.location.href = '/projects'}>
+            <Button
+              variant="primary"
+              size="large"
+              onClick={() => (window.location.href = "/projects")}
+            >
               View My Work
             </Button>
-            <Button variant="outline" size="large" onClick={() => window.location.href = '/contact'}>
+            <Button
+              variant="outline"
+              size="large"
+              onClick={() => (window.location.href = "/contact")}
+            >
               Contact Me
             </Button>
           </div>
         </div>
         <div className="hero-image">
           <div className="profile-placeholder">
-             <img src={profileImage} alt="Profile" />
+            <img
+              src={profileImage}
+              alt="Profile"
+              className="profile-img" // New class for CSS targeting
+            />
           </div>
         </div>
       </div>

@@ -10,21 +10,21 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Dynasty Bot",
-    description: "Dynasty Bot handles repetitive questions, reduces support tickets, and delivers instant, accurate answers — 24/7. Transform your customer support experience today.",
+    title: "Happy Bot",
+    description: "Happy Bot handles repetitive questions, reduces support tickets, and delivers instant, accurate answers — 24/7. Transform your customer support experience today.",
     image: null, // Add your image path here
-    tags: ["React", "NextJS", "FASTAPI", "Django", "PostgreSQL", "Supabase"],
-    liveUrl: "#",
-    codeUrl: "https://github.com/dynastybot/landingpage"
+    tags: ["Node", "NextJS",  "Express", "PostgreSQL", "HTML"],
+    liveUrl: "https://happybot.vercel.app/",
+    codeUrl: ""
   },
   {
     id: 3,
-    title: "Weather App",
-    description: "A weather application that provides current weather and forecasts based on user location or search.",
+    title: "Nawiri Empowerhub",
+    description: "A a grassroots initiative dedicated to uplifting communities across Kenya. Through education, empowerment, and sustainable development projects, we strive to create lasting positive change and improve the quality of life for those in need.",
     image: null, // Add your image path here
-    tags: ["JavaScript", "API", "CSS"],
-    liveUrl: "#",
-    codeUrl: "https://github.com/marube2005/FUTURE_FS_02"
+    tags: ["React", "FastAPI", "CSS", "PostgreSQL"],
+    liveUrl: "https://www.nawiriempowerhub.org/",
+    codeUrl: ""
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const projects = [
     image: null, // Add your image path here
     tags: ["Flutter", "Firebase", "MongoDB"],
     liveUrl: "#",
-    codeUrl: "https://github.com/marube2005/TaskMaster"
+    // codeUrl: "https://github.com/marube2005/TaskMaster"
   },
   {
     id: 5,
@@ -42,15 +42,7 @@ export const projects = [
     image: null, // Add your image path here
     tags: ["Flutter", "Springboot", "AWS" ,"Firebase", "MongoDB"],
     liveUrl: "https://mystudybae.vercel.app/",
-    codeUrl: "https://github.com/studybae"
+    // codeUrl: "https://github.com/studybae"
   },
-  {
-    id: 6,
-    title: "Movie Database",
-    description: "A movie database application that allows users to browse, search, and save their favorite movies.",
-    image: null, // Add your image path here
-    tags: ["React", "API", "LocalStorage"],
-    liveUrl: "#",
-    codeUrl: "https://github.com/yourusername/movie-database"
-  }
+
 ];

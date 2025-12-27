@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "MyportfolioBackend",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
@@ -15,7 +15,8 @@
     "express-rate-limit": "^7.5.0",
     "express-validator": "^7.2.1",
     "helmet": "^8.0.0",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "nodemailer": "^7.0.12"
   },
   "devDependencies": {
     "dotenv": "^16.4.7",

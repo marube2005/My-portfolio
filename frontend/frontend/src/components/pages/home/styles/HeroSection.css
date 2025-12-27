@@ -65,6 +65,14 @@
   align-items: center;
 }
 
+.profile-img {
+ 
+  border-radius: 60%;  /* Makes it circular (full circle) */
+  object-fit: contain;   /* Crops/fills image without distortion; use 'contain' if you want letterboxing */
+  display: block;      /* Removes any inline spacing issues */
+  width: 100%;
+}
+
 .profile-placeholder {
   width: 350px;
   height: 350px;

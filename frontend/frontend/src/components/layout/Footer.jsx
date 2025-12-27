@@ -1,4 +1,3 @@
-import React from 'react';
 import './styles/Footer.css';
 
 const Footer = () => {
@@ -11,7 +10,7 @@ const Footer = () => {
           <div className="footer-info">
             <h3 className="footer-title">Elvis Marube</h3>
             <p className="footer-description">
-              Frontend Developer creating modern and responsive web applications and Mobile Applications.
+              Full stack Developer - creating modern and responsive web applications and Mobile Applications.
             </p>
           </div>
           

@@ -1,4 +1,4 @@
-import React from 'react';
+
 import './styles/ProjectsCard.css';
 
 const ProjectCard = ({ project }) => {
