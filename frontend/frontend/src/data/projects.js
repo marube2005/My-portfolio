@@ -5,8 +5,8 @@ export const projects = [
     description: "A responsive portfolio website built with React and custom CSS to showcase my projects and skills.",
     image: null, // Add your image path here
     tags: ["React", "CSS", "Responsive"],
-    liveUrl: "#",
-    codeUrl: "https://github.com/marube2005/FUTURE_FS_01"
+    liveUrl: "https://my-portfolio-ruby-six-42.vercel.app/",
+    codeUrl: ""
   },
   {
     id: 2,
