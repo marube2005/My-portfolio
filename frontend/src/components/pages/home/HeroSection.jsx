@@ -12,11 +12,14 @@ const HeroSection = () => {
             Hi, I'm <span className="highlight">Elvis Marube</span>
           </h1>
           <h2 className="hero-subtitle">
-            FullStack Developer and a CyberSecurity Enthusiast
+            Computer Science Student | Full-Stack Developer
           </h2>
           <p className="hero-description">
-            I build modern, responsive web applications with a focus on clean
-            code and great user experiences.
+            Computer Science student and software developer with hands-on
+            experience building full-stack web and mobile applications using
+            React, Flutter, Node.js, FastAPI, and Django. Passionate about
+            integrating AI-powered features to enhance productivity and user
+            experience.
           </p>
           <div className="hero-buttons">
             <Button
