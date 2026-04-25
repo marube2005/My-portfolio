@@ -2,30 +2,33 @@ import React from "react";
 import "./styles/SkillsSection.css";
 
 const skills = {
-  Frontend: [
-    "HTML5 & CSS3",
-    "JavaScript (ES6+)",
-    "React.js",
+  "Frontend & Frameworks": [
     "Flutter",
-    "Tailwind CSS",
+    "JavaScript",
+    "React",
+    "Next.js",
+    "HTML5",
+    "CSS3",
   ],
-  Backend: [
-    "Node.js & Express",
-    "Python & FastAPI",
+  "Backend & Databases": [
+    "Node.js (Express)",
+    "FastAPI",
     "Django",
-    "Spring Boot",
-  ],
-  "Databases & Cloud": [
     "PostgreSQL",
     "MongoDB",
-    "Firebase",
-    "AWS",
   ],
-  "Tools & DevOps": [
-    "Git & GitHub",
-    "Docker",
-    "Figma",
+  "Tools & Platforms": [
+    "Git",
+    "Android Studio",
     "VS Code",
+    "Vercel",
+    "Postman",
+  ],
+  "Concepts": [
+    "RESTful APIs",
+    "Authentication",
+    "Agile Methodologies",
+    "AI Integration",
   ],
 };
 

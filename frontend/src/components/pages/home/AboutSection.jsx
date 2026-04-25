@@ -9,21 +9,27 @@ const AboutSection = () => {
 
         <div className="about-content">
           <div className="about-text">
-          
             <p>
-              My development journey began in 2023, and since then, I've worked
-              on a variety of projects — from small business websites to more
-              complex platforms. Each project has pushed me to grow, learn new
-              tools, and adapt to ever-evolving technologies. I'm continuously
-              improving my craft, driven by curiosity and a genuine love for
-              creating useful things.
+              Computer Science student and software developer with hands-on
+              experience building full-stack web and mobile applications using
+              React, Flutter, Node.js, FastAPI, and Django. Strong interest in
+              integrating AI-powered features to enhance productivity and user
+              experience. Completed a software development internship with
+              real-world exposure to API integration.
             </p>
             <p>
-              Outside of tech, I’m someone who values balance. I love reading
-              books, watching inspiring podcasts and movies, and staying active
-              in church activities. These interests not only recharge me but
-              also shape the creativity and discipline I bring to every line of
-              code I write.
+              Passionate about building scalable, user-focused solutions that
+              solve real problems. My development journey began in 2023, and
+              since then I\'ve worked on a variety of projects — from community
+              empowerment platforms to AI-powered chatbots. Each project has
+              pushed me to grow, learn new tools, and adapt to ever-evolving
+              technologies.
+            </p>
+            <p>
+              Outside of tech, I value balance — I enjoy reading books,
+              watching inspiring podcasts and movies, and staying active in
+              church activities. These interests shape the creativity and
+              discipline I bring to every line of code I write.
             </p>
           </div>
 
@@ -33,12 +39,12 @@ const AboutSection = () => {
               <span className="stat-label">Years Experience</span>
             </div>
             <div className="stat-item">
-              <span className="stat-number">5+</span>
+              <span className="stat-number">6+</span>
               <span className="stat-label">Projects Completed</span>
             </div>
             <div className="stat-item">
-              <span className="stat-number">5+</span>
-              <span className="stat-label">Happy Clients</span>
+              <span className="stat-number">1</span>
+              <span className="stat-label">Internship</span>
             </div>
           </div>
         </div>
