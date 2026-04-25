@@ -20,7 +20,7 @@ export const projects = [
   {
     id: 3,
     title: "Nawiri Empowerhub",
-    description: "A a grassroots initiative dedicated to uplifting communities across Kenya. Through education, empowerment, and sustainable development projects, we strive to create lasting positive change and improve the quality of life for those in need.",
+    description: "A grassroots initiative dedicated to uplifting communities across Kenya. Through education, empowerment, and sustainable development projects, we strive to create lasting positive change and improve the quality of life for those in need.",
     image: null, // Add your image path here
     tags: ["React", "FastAPI", "CSS", "PostgreSQL"],
     liveUrl: "https://www.nawiriempowerhub.org/",
@@ -29,7 +29,7 @@ export const projects = [
   {
     id: 4,
     title: "Task Master",
-    description: "Unlock peak efficiency with Task Master — your smart productivity companion. Seamlessly organize, prioritize, and track your to-dos with an intuitive interface. Collaborate effortlessly with others, stay focused, and crush your goals. Experience task management redefined — built for individuals and teams who value simplicity and impact..",
+    description: "Unlock peak efficiency with Task Master — your smart productivity companion. Seamlessly organize, prioritize, and track your to-dos with an intuitive interface. Collaborate effortlessly with others, stay focused, and crush your goals. Experience task management redefined — built for individuals and teams who value simplicity and impact.",
     image: null, // Add your image path here
     tags: ["Flutter", "Firebase", "MongoDB"],
     liveUrl: "#",

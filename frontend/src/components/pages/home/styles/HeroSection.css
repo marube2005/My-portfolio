@@ -93,6 +93,11 @@
   object-position:top center; /* Centers the image */
 }
 
+.hero-resume-btn {
+  text-decoration: none;
+  font-family: inherit;
+}
+
 @media (max-width: 1024px) {
   .hero-title {
     font-size: var(--text-4xl);

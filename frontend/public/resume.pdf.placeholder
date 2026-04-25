@@ -1,0 +1,7 @@
+Replace this file with your actual resume PDF.
+
+Steps:
+1. Export your CV as a PDF.
+2. Rename it to `resume.pdf`.
+3. Place it in the `frontend/public/` folder.
+4. The "Download CV" button in the hero section will automatically serve it.

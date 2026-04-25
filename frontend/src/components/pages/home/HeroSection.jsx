@@ -33,6 +33,13 @@ const HeroSection = () => {
             >
               Contact Me
             </Button>
+            <a
+              href="/resume.pdf"
+              download
+              className="btn btn-secondary btn-large hero-resume-btn"
+            >
+              Download CV
+            </a>
           </div>
         </div>
         <div className="hero-image">
